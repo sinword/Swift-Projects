@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "97822A6B-106D-424A-A1A2-DC91F9B8DD4F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5C57302-A967-478C-AA24-77B90605DEF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterfacceControl/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - 963d0e0dd265192a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.name.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - 5729233850ef455e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.name.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - e4bedaf13f07bc2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.name.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - 3c077f9eab4bd821"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.name.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - aca641decc7a05f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; InterfacceControl.ViewController"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "F5C57302-A967-478C-AA24-77B90605DEF6 - f182d2b5065a0cd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfacceControl.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;InterfacceControl.ViewController&gt;"
+                  moduleName = "InterfacceControl"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac09/Downloads/InterfacceControl/InterfacceControl/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
